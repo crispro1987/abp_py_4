@@ -1,0 +1,58 @@
+[
+    {
+        "id": 2,
+        "name": "roberto",
+        "email": "roberto@def.cl",
+        "phone": "73719947",
+        "type": "ClienteRegular",
+        "discount": 10.0
+    },
+    {
+        "id": 2,
+        "name": "cristian",
+        "email": "cristian@dosiscl.com",
+        "phone": "73719947",
+        "type": "ClienteRegular",
+        "discount": 10.0
+    },
+    {
+        "id": 3,
+        "name": "maria jose",
+        "email": "majo_eh@hotmail.com",
+        "phone": "73719947",
+        "type": "ClientePremium",
+        "points": 0
+    },
+    {
+        "id": 4,
+        "name": "cristt",
+        "email": "cris.vg@icloud.com",
+        "phone": "73719947",
+        "type": "ClienteCorporativo",
+        "company": "Dosiscl.com"
+    },
+    {
+        "id": 5,
+        "name": "isidora",
+        "email": "isi@dosi.cl",
+        "phone": "73719947",
+        "type": "ClientePremium",
+        "points": 0
+    },
+    {
+        "id": 6,
+        "name": "jose",
+        "email": "jose@gmail.com",
+        "phone": "73719947",
+        "type": "ClienteCorporativo",
+        "company": "dev"
+    },
+    {
+        "id": 7,
+        "name": "robe",
+        "email": "robe@de.cl",
+        "phone": "73719947",
+        "type": "ClientePremium",
+        "points": 0
+    }
+]

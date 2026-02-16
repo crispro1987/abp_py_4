@@ -1,0 +1,33 @@
+2026-02-15 18:56:20.475642 [INFO] Clientes cargados
+2026-02-15 18:56:25.807612 [ERROR] Cliente ID 8 no encontrado
+2026-02-15 18:58:53.286222 [ERROR] Email inválido
+2026-02-15 18:58:53.287626 [INFO] Clientes guardados
+2026-02-15 19:11:12.726098 [INFO] Clientes cargados
+2026-02-15 19:11:29.150988 [ERROR] Email invalido
+2026-02-15 19:11:29.152701 [INFO] Clientes guardados
+2026-02-15 19:13:18.620905 [INFO] Clientes cargados
+2026-02-15 19:13:33.645729 [ERROR] Email invalido
+2026-02-15 19:13:53.076643 [ERROR] Telefono invalido
+2026-02-15 20:01:25.234827 [INFO] Clientes cargados
+2026-02-15 20:01:38.341928 [ERROR] Email invalido
+2026-02-15 20:02:38.477202 [INFO] Clientes cargados
+2026-02-15 20:02:46.325510 [ERROR] Email invalido
+2026-02-15 20:04:47.960905 [INFO] Clientes cargados
+2026-02-15 20:05:12.061035 [ERROR] Telefono invalido
+2026-02-15 20:05:35.627271 [INFO] Cliente con ID 6 agregado exitosamente.
+2026-02-15 20:05:35.628637 [INFO] Clientes guardados
+2026-02-15 20:07:01.922712 [INFO] Cliente eliminado: 2
+2026-02-15 20:08:48.439396 [INFO] Clientes cargados
+2026-02-15 20:11:31.137688 [INFO] Clientes cargados
+2026-02-15 20:11:42.072059 [INFO] Clientes cargados
+2026-02-15 20:12:41.849092 [INFO] Clientes cargados
+2026-02-15 20:16:08.964598 [ERROR] Email invalido
+2026-02-15 20:16:26.523843 [INFO] Cliente con ID 7 agregado exitosamente.
+2026-02-15 20:16:26.525480 [INFO] Clientes guardados
+2026-02-15 22:39:16.761025 [INFO] Clientes cargados
+2026-02-15 22:41:34.438742 [INFO] Clientes cargados
+2026-02-15 22:41:54.657464 [INFO] Clientes guardados
+2026-02-15 22:41:54.658266 [INFO] Cliente 4 actualizado
+2026-02-15 22:50:39.907015 [INFO] Clientes cargados
+2026-02-15 22:50:58.698947 [INFO] Clientes guardados
+2026-02-15 22:50:58.699720 [INFO] Cliente 4 actualiza Email con exito
