@@ -31,7 +31,8 @@ abp_py_4/
 │   ├── logger.py
 |   └── validate.py
 ├── main.py
-└── README.md
+├── README.md
+└── uml.xml
 ```
 
 ## Ejecutar Sistema
@@ -39,7 +40,7 @@ abp_py_4/
 Clonar repositorio
 
 ```
-git clone "https://"
+git clone "https://github.com/crispro1987/abp_py_4.git"
 ```
 
 Ejecutar
