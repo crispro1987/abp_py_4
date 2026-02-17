@@ -142,7 +142,7 @@ try:
     #... código ...
 
     if not Validate.validate_email(mod):
-                            raise EmailInvalidError("Email inválido")
+        raise EmailInvalidError("Email inválido")
 
 except ValueError:
     print("Opción inválida")
@@ -179,7 +179,7 @@ Maneja el archivo y lo cierra al terminar
 ```
 json.dump(data, f, indent=4)
 ```
-Convierte data a formato JSON y lo escribe en el archivo
+Convierte data a formato JSON y lo escribe en el archivo.
 __indent=4__ hace que el JSON sea legible
 
 
